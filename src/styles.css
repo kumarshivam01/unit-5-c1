@@ -1,0 +1,11 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+} */
+.banner {
+  display: flex;
+}
+
+.h1 {
+  text-align: center;
+}
